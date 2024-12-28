@@ -1,1 +1,1 @@
-# ASCII-аниматор
+# ASCII-animator
